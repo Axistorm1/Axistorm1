@@ -10,6 +10,6 @@ while true; do work; done
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Axistorm1&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Axistorm1&icon=2&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=torvalds&icon=2&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
