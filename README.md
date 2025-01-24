@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studying computer science, interested in learning new languages (ASM, C, Go, Python)
+Studying software engineering, interested in learning new languages (ASM, C, Go, Python)
 
 
 # 💻 Tech Stack:
