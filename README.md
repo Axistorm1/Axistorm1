@@ -1,5 +1,5 @@
 # 💫 About Me:
-while true; do work; done
+Studying computer science, interested in learning new languages (ASM, C, Go, Python)
 
 
 # 💻 Tech Stack:
